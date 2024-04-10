@@ -1,7 +1,3 @@
-h1{
-
-}
-div {
+*{
     background: radial-gradient (50% 50% at 50% 50%, #3C008B 0%, rgba(60, 0, 139, 0) 100%);
-
 }
